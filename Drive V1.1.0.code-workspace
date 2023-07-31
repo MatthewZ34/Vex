@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Robotics/Drive V1.1.0"
+		},
+		{
+			"path": "../EZ-Template-main"
+		}
+	],
+	"settings": {
+		"pros.showInstallOnStartup": false
+	}
+}
